@@ -10,5 +10,6 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,linux,py,terraform,ansible,docker,kubernetes,jenkins,prometheus,grafana,git,github)](https://skillicons.dev)
 
 ## GitHub Stats:
-![](https://streak-stats.demolab.com/?user=Zahra282004&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=Zahra282004&theme=dark&hide_border=false)
+<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Zahra282004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
