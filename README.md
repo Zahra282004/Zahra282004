@@ -1,10 +1,10 @@
 # Hey there , Zahra here!
 * I’m currently leveling up my **Cloud & DevOps** skills through hands-on, production-grade projects.
 * Open to exciting Cloud & DevOps roles .
-* To all Cloud & Devops folks,Let’s link up! I’m always down to connect, share learnings, and debug life together😁🤝
+* To all Cloud & DevOps folks,Let’s link up! I’m always down to connect, share learnings, and debug life together😁🤝
 
 ## Socials:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/your-linkedin-username) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:zahramurtaza28@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/zahra-murtaza-9a16392a7/) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:zahramurtaza28@gmail.com)
 
 ## Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=aws,linux,py,terraform,ansible,docker,kubernetes,jenkins,prometheus,grafana,git,github)](https://skillicons.dev)
